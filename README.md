@@ -1,12 +1,4 @@
-# Template for OER
-
-This is a template for open and freely licensed texts that delivers appealing, and depending on the template, multimedia results. It additionally automates a lot of laborious work during creation. This template can be used for courses or modules as well as for all sorts of texts, including student research papers or theses.
-
-* generates metadata in HTML headers for OER repositories and Google search
-* automatically creates license notices for Wikimedia images with machine-readable notices according to CC REL
-* inserts license notice in generated documents
-
-With every save (commit) the documents are generated and available via:
+# Dynamische Datenstrukturen - Beispielkurs
 
 * [landing page](https://smatts.github.io/dynamischedatenstrukturen/)
 
