@@ -22,8 +22,6 @@ link:     https://cdn.jsdelivr.net/gh/twillo-lehre-teilen/BestPractice_Dynamisch
 script:   https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js
 -->
 
-# Dynamische Datenstrukturen
-
 ## Lizenzhinweis
 
 Der Kurs *Dynamische Datenstrukturen*, von Lennart Rosseburg für twillo, ist lizenziert unter der [Lizenz CC-BY-SA (3.0)](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
@@ -36,7 +34,7 @@ Der Kurs *Dynamische Datenstrukturen*, von Lennart Rosseburg für twillo, ist li
 > Diese Selbstlerneinheit konzentriert sich auf die Funktionsweise verschiedener Dynamischer Datenstrukturen und enthält interaktive Aufgaben um das Gelernte zu überprüfen und zu verinnerlichen.
 
 <!--  style="background-color:#A6D492;" -->
-### Ziel des Kurses:
+## Ziel des Kurses:
 
 Am Ende dieser Selbstlerneinheit sollten Sie die vorgestellten Dynamischen Datenstrukturen kennen, unterscheiden und selbst anwenden können.
 
